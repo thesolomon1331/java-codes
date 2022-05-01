@@ -1,3 +1,5 @@
+/*Java program to find the largest of 3 numbers
+*/
 package myprojects;
 import java.util.*;
 public class LargestNum
